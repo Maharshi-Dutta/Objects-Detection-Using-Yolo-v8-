@@ -1,0 +1,8 @@
+path: D:/CNN Project/bdd100k 
+train: train/images
+val: valid/images/
+test: test/images
+
+nc: 7
+names: ['bike', 'bus', 'car', 'motor', 'person', 'rider', 'truck']
+
